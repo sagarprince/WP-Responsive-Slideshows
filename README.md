@@ -1,41 +1,19 @@
-# Dynamic Web Development Class Final Project
+# WP-Responsive-Slideshows
 
-Part of your final assignment is to post your code on Github. This will allow anyone interested in learning NodeJS to use your code as an example while getting started.
+WP Responsive Slideshows Plugin for Adding Multiple Resposive Slideshow into WP Sites.
 
 -----------------------
 
 List of requirements for the Final project submission:
 
-### Create a Github Repository for your existing project. 
+### Features : 
 
-You can find out how to create a repo, [http://help.github.com/create-a-repo/](http://help.github.com/create-a-repo/)
-
-When you have created a repo you can add a new Git remote path, allowing you to push your code to Github. We use remote paths now when we push to Heroku
-
-To add the Github remote path, adjust the following command to match your repo's address
-
-    git remote add origin git@github.com:GitHubUsername/YourRepoName.git
-
-
-### Create a README file
-
-A Github repository can have a README file. This is the quick-guide, instruction manual for using the repo. You can create a README file with plain text or give some styles with [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
-
-Save your README file to your root directory (same level as web.js and package.json)
-
-### Your README should include
-
-*   A link to working example on Heroku.com
-
-*   What your code does when the server is started.
-
-*   What dependencies are required to run the code
-    *   Package.json
-    *   Any Heroku add-ons like MONGOLAB or CRON
-
-*   List your routes, what URLs are made available when your server is turned on.
-
-*   How can a person run your code, what is the command to start the server.
+--* Adding / Removing Images and Videos in WP-ADMIN Support
+--* Adding Images By URL in WP-ADMIN Support
+--* WP Tinymce Adding/Inserting Slideshow Shortcode Button Support
+--* Support for Editing Slideshow from Tinymce Shortcode Button Popup
+--* Responsive Slideshow
+--* Slideshow Touch Events Support
 
 -------
 
