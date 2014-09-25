@@ -1,8 +1,6 @@
 
--## WP-Responsive-Slideshows ##
+-## WP-Responsive-Slideshows
 ->v.1.3.3
-
--========================================================================
 
 -WP Responsive Slideshows Plugin for Adding Multiple Resposive Slideshow into WP Sites.
 -
@@ -13,8 +11,6 @@
 -* Support for Editing Slideshow from Tinymce Shortcode Button Popup
 -* Responsive Slideshow
 -* Slideshow Touch Events Support
--
--
 -
 
 -[WP ADMIN DEMO LINK](http://sagarprince.esy.es/wpress/wp-admin/edit.php?post_type=wrs_slideshow)
