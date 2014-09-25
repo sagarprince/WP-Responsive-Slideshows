@@ -7,13 +7,12 @@ WP Responsive Slideshows Plugin for Adding Multiple Resposive Slideshow into WP 
 List of requirements for the Final project submission:
 
 ### Features : 
-
---* Adding / Removing Images and Videos in WP-ADMIN Support
---* Adding Images By URL in WP-ADMIN Support
---* WP Tinymce Adding/Inserting Slideshow Shortcode Button Support
---* Support for Editing Slideshow from Tinymce Shortcode Button Popup
---* Responsive Slideshow
---* Slideshow Touch Events Support
+* Adding / Removing Images and Videos in WP-ADMIN Support
+* Adding Images By URL in WP-ADMIN Support
+* WP Tinymce Adding/Inserting Slideshow Shortcode Button Support
+* Support for Editing Slideshow from Tinymce Shortcode Button Popup
+* Responsive Slideshow
+* Slideshow Touch Events Support
 
 -------
 
