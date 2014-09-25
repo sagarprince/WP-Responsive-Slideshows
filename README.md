@@ -23,4 +23,9 @@ You can find out demo link here, [WP ADMIN DEMO LINK](http://sagarprince.esy.es/
     Password : admin
     
 
+### SLIDESHOW DEMO LINK  [http://sagarprince.esy.es/wpress/demo-slideshows/](http://sagarprince.esy.es/wpress/demo-slideshows/)
 
+
+License
+--------------
+The MIT License (MIT)
