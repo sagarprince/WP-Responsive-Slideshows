@@ -1,71 +1,31 @@
--##New version 2.0.0-beta now available for testers. [Check it](http://www.owlgraphic.com/owlcarousel2/)
--
--### OwlCarousel ###
+
+-## WP-Responsive-Slideshows ##
 ->v.1.3.3
--
--Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
--[Visit Owl Carousel landing page](http://owlgraphic.com/owlcarousel)
+
+-========================================================================
+
+-WP Responsive Slideshows Plugin for Adding Multiple Resposive Slideshow into WP Sites.
 -
 -###Features:
--* Responsive
--* Touch Events
--* Mouse Slide Events
--* Fully Customizable
--* Choose the number of items to be displayed
--* Multiple Sliders
--* CSS3 3d Transitions
--* Custimizable controls
--* JSON
--* Custom events
--* Helpful callbacks
--
--> Tested on IE7, IE8, IE9, IE10, Chrome, Safari, Firefox, Opera, iPhone, iPad, Chrome on Google Nexus.
+-* Adding / Removing Images and Videos in WP-ADMIN Support
+-* Adding Images By URL in WP-ADMIN Support
+-* WP Tinymce Adding/Inserting Slideshow Shortcode Button Support
+-* Support for Editing Slideshow from Tinymce Shortcode Button Popup
+-* Responsive Slideshow
+-* Slideshow Touch Events Support
 -
 -
--### More Demos
--See what Owl can do:
--* [With auto scaling images](http://owlgraphic.com/owlcarousel/demos/images.html)
--* [Full Width](http://owlgraphic.com/owlcarousel/demos/full.html)
--* [Custom Widths](http://owlgraphic.com/owlcarousel/demos/custom.html)
--* [One Item](http://owlgraphic.com/owlcarousel/demos/one.html)
--* [More demos](http://owlgraphic.com/owlcarousel/#more-demos)
 -
--### 1.Getting Started
--Load jQuery(1.7+) and include Owl Carousel plugin files
--
+
+-[WP ADMIN DEMO LINK](http://sagarprince.esy.es/wpress/wp-admin/edit.php?post_type=wrs_slideshow)
 -```html
--<!-- Basic stylesheet -->
--<link rel="stylesheet" href="owl-carousel/owl.carousel.css">
--
-- <!-- Default Theme -->
--<link rel="stylesheet" href="owl-carousel/owl.theme.css">
--
--<!-- Include js plugin -->
--<script src="owl-carousel/owl.carousel.js"></script>
+-Admin Details
+-UN : admin
+-Password : admin
 -```
--### 2.Set up your HTML
--You don't need any special markup. All you need is to wrap your divs inside the container element <div class="owl-carousel">. Class "owl-carousel" is mandatory to apply proper styles that come from owl.carousel.css file.
 -
--```html
--<div class="owl-carousel">
-- <div> Your Content </div>
-- <div> Your Content </div>
-- <div> Your Content </div>
-- <div> Your Content </div>
-- <div> Your Content </div>
-- <div> Your Content </div>
-- <div> Your Content </div>
-- ...
--</div>
--```
--### 3.Call the plugin
--Now call the Owl initializer function and your carousel is ready.
+-[DEMO LINK](http://sagarprince.esy.es/wpress/demo-slideshows/)
 -
--```html
--$(".owl-carousel").owlCarousel();
--```
--### 4. For more details visit [OwlCarousel landing page](http://owlgraphic.com/owlcarousel)
--##### Changelog available [here](http://owlgraphic.com/owlcarousel/changelog.html)
 -
 -
 -
