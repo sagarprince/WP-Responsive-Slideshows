@@ -2,9 +2,9 @@
 -## WP-Responsive-Slideshows
 ->v.1.3.3
 
--WP Responsive Slideshows Plugin for Adding Multiple Resposive Slideshow into WP Sites.
+-### WP Responsive Slideshows Plugin for Adding Multiple Resposive Slideshow into WP Sites. ###
 -
--###Features:
+-### Features:
 -* Adding / Removing Images and Videos in WP-ADMIN Support
 -* Adding Images By URL in WP-ADMIN Support
 -* WP Tinymce Adding/Inserting Slideshow Shortcode Button Support
