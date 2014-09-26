@@ -16,14 +16,14 @@ WP Responsive Slideshows Plugin for Adding Multiple Resposive Slideshow into WP 
 
 ### DEMO
 
-You can find out demo link here, [WP ADMIN DEMO LINK](http://sagarprince.esy.es/wpress/wp-admin/edit.php?post_type=wrs_slideshow)
+You can find out demo link here, [WP ADMIN DEMO LINK](http://sagarprince.comze.com/wpress/wp-admin/post-new.php?post_type=wrs_slideshow)
     
     Admin Details
     UN : admin
     Password : admin
     
 
-### SLIDESHOW DEMO LINK  [http://sagarprince.esy.es/wpress/demo-slideshows/](http://sagarprince.esy.es/wpress/demo-slideshows/)
+### SLIDESHOW DEMO LINK  [http://sagarprince.comze.com/wpress/demo-slideshows/](http://sagarprince.esy.es/wpress/demo-slideshows/)
 
 
 License
